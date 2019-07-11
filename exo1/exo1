@@ -1,0 +1,2 @@
+-- Créer une base de données languages. Exercice 1
+CREATE DATABASE nom_base;
